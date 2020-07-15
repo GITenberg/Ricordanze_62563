@@ -1,0 +1,27 @@
+_repo: Ricordanze_62563
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rapisardi, Mario
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '25466'
+    url: http://www.gutenberg.org/2009/agents/25466
+    wikipedia:
+    - https://it.wikipedia.org/wiki/Mario_Rapisardi
+    - https://en.wikipedia.org/wiki/Mario_Rapisardi
+description: ''
+gutenberg_issued: '2020-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62563'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Italian poetry -- 19th century'
+- GITenberg
+title: Ricordanze
+url: http://www.gutenberg.org/ebooks/62563
